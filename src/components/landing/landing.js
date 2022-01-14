@@ -11,7 +11,6 @@ import {
 } from '@chakra-ui/react';
 import Link from 'next/link'
 
-
 const Arrow = createIcon({
     displayName: 'Arrow',
     viewBox: '0 0 72 24',
@@ -55,7 +54,7 @@ export default function CallToActionWithAnnotation() {
             align={'center'}
             alignSelf={'center'}
             position={'relative'}>
-            <Link href="/countrytable">
+            <Link href="/countrytable" passHref={true}>
             <Button
               colorScheme={'green'}
               bg={'green.400'}
@@ -67,7 +66,7 @@ export default function CallToActionWithAnnotation() {
               Country Data Tables
             </Button>
             </Link>
-            <Link href="/countryfinder">
+            <Link href="/countryfinder" passHref={true}>
             <Button
               colorScheme={'green'}
               bg={'blue.400'}

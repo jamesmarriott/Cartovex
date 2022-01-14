@@ -46,12 +46,12 @@ import { COLUMNS } from './columns'
                 <Thead>
                     {
                         headerGroups.map((headerGroup) => {
-                            console.log(headerGroup)
+                            
                             return (
                                 
                             <Tr {...headerGroup.getHeaderGroupProps()}>
-                                {headerGroup.headers.map((column, key) => (
-                                        <Th {...column.getHeaderProps(column.getSortByToggleProps())}>
+                                {headerGroup.headers.map((column, index) => (
+                                        <Th key={index} {...column.getHeaderProps(column.getSortByToggleProps())}>
                                             {column.render('Header')}
                                             <chakra.span pl='4'>
                                                 {column.isSorted ? (
@@ -70,17 +70,17 @@ import { COLUMNS } from './columns'
                         )}
                 </Thead>
                 <Tbody {...getTableBodyProps()}>
-                    {rows.map((row) => {
+                    {rows.map((row, ) => {
                             prepareRow(row)
                             return (
                                 <Tr {...row.getRowProps()}>
-                                    {row.cells.map((cell) =>{
+                                    {row.cells.map((cell, index) =>{
                                     
 
                                         return (
                                 
                                         
-                                       <Td {...cell.getCellProps()}>
+                                       <Td key={index} {...cell.getCellProps()}>
                                            {cell.column.Header === 'flag' ?
                                                <Image 
                                                src={`flags/4x3/${cell.value}.svg`}
