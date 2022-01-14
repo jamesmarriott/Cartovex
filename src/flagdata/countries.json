@@ -1,0 +1,1757 @@
+[
+    {
+      "Index": 1,
+      "Code": "af",
+      "Country": "Afghanistan",
+      "Capital": "Kabul",
+      "Population": 38928346,
+      "Area": 652860,
+      "Popdensity": 60
+    },
+    {
+      "Index": 2,
+      "Code": "al",
+      "Country": "Albania",
+      "Capital": "Tirana",
+      "Population": 2877797,
+      "Area": 27400,
+      "Popdensity": 105
+    },
+    {
+      "Index": 3,
+      "Code": "dz",
+      "Country": "Algeria",
+      "Capital": "Algiers",
+      "Population": 43851044,
+      "Area": 2381740,
+      "Popdensity": 18
+    },
+    {
+      "Index": 4,
+      "Code": "ad",
+      "Country": "Andorra",
+      "Capital": "Andorra la Vella",
+      "Population": 77265,
+      "Area": 470,
+      "Popdensity": 164
+    },
+    {
+      "Index": 5,
+      "Code": "ao",
+      "Country": "Angola",
+      "Capital": "Luanda",
+      "Population": 32866272,
+      "Area": 1246700,
+      "Popdensity": 26
+    },
+    {
+      "Index": 6,
+      "Code": "ag",
+      "Country": "Antigua and Barbuda",
+      "Capital": "St. John's",
+      "Population": 97929,
+      "Area": 440,
+      "Popdensity": 223
+    },
+    {
+      "Index": 7,
+      "Code": "ar",
+      "Country": "Argentina",
+      "Capital": "Buenos Aires",
+      "Population": 45195774,
+      "Area": 2736690,
+      "Popdensity": 17
+    },
+    {
+      "Index": 8,
+      "Code": "am",
+      "Country": "Armenia",
+      "Capital": "Yerevan",
+      "Population": 2963243,
+      "Area": 28470,
+      "Popdensity": 104
+    },
+    {
+      "Index": 9,
+      "Code": "au",
+      "Country": "Australia",
+      "Capital": "Canberra",
+      "Population": 25499884,
+      "Area": 7682300,
+      "Popdensity": 3
+    },
+    {
+      "Index": 10,
+      "Code": "at",
+      "Country": "Austria",
+      "Capital": "Vienna",
+      "Population": 9006398,
+      "Area": 82409,
+      "Popdensity": 109
+    },
+    {
+      "Index": 11,
+      "Code": "az",
+      "Country": "Azerbaijan",
+      "Capital": "Baku",
+      "Population": 10139177,
+      "Area": 82658,
+      "Popdensity": 123
+    },
+    {
+      "Index": 12,
+      "Code": "bs",
+      "Country": "Bahamas",
+      "Capital": "Nassau",
+      "Population": 393244,
+      "Area": 10010,
+      "Popdensity": 39
+    },
+    {
+      "Index": 13,
+      "Code": "bh",
+      "Country": "Bahrain",
+      "Capital": "Manama",
+      "Population": 1701575,
+      "Area": 760,
+      "Popdensity": 2239
+    },
+    {
+      "Index": 14,
+      "Code": "bd",
+      "Country": "Bangladesh",
+      "Capital": "Dhaka",
+      "Population": 164689383,
+      "Area": 130170,
+      "Popdensity": 1265
+    },
+    {
+      "Index": 15,
+      "Code": "bb",
+      "Country": "Barbados",
+      "Capital": "Bridgetown",
+      "Population": 287375,
+      "Area": 430,
+      "Popdensity": 668
+    },
+    {
+      "Index": 16,
+      "Code": "by",
+      "Country": "Belarus",
+      "Capital": "Minsk",
+      "Population": 9449323,
+      "Area": 202910,
+      "Popdensity": 47
+    },
+    {
+      "Index": 17,
+      "Code": "be",
+      "Country": "Belgium",
+      "Capital": "Brussels",
+      "Population": 11589623,
+      "Area": 30280,
+      "Popdensity": 383
+    },
+    {
+      "Index": 18,
+      "Code": "bz",
+      "Country": "Belize",
+      "Capital": "Belmopan",
+      "Population": 397628,
+      "Area": 22810,
+      "Popdensity": 17
+    },
+    {
+      "Index": 19,
+      "Code": "bj",
+      "Country": "Benin",
+      "Capital": "Porto-Novo",
+      "Population": 12123200,
+      "Area": 112760,
+      "Popdensity": 108
+    },
+    {
+      "Index": 20,
+      "Code": "bt",
+      "Country": "Bhutan",
+      "Capital": "Thimphu",
+      "Population": 771608,
+      "Area": 38117,
+      "Popdensity": 20
+    },
+    {
+      "Index": 21,
+      "Code": "bo",
+      "Country": "Bolivia",
+      "Capital": "La Paz (administrative)",
+      "Population": 11673021,
+      "Area": 1083300,
+      "Popdensity": 11
+    },
+    {
+      "Index": 22,
+      "Code": "ba",
+      "Country": "Bosnia and Herzegovina",
+      "Capital": "Sarajevo",
+      "Population": 3280819,
+      "Area": 51000,
+      "Popdensity": 64
+    },
+    {
+      "Index": 23,
+      "Code": "bw",
+      "Country": "Botswana",
+      "Capital": "Gaborone",
+      "Population": 2351627,
+      "Area": 566730,
+      "Popdensity": 4
+    },
+    {
+      "Index": 24,
+      "Code": "br",
+      "Country": "Brazil",
+      "Capital": "Brasília",
+      "Population": 212559417,
+      "Area": 8358140,
+      "Popdensity": 25
+    },
+    {
+      "Index": 25,
+      "Code": "bn",
+      "Country": "Brunei",
+      "Capital": "Bandar Seri Begawan",
+      "Population": 437479,
+      "Area": 5270,
+      "Popdensity": 83
+    },
+    {
+      "Index": 26,
+      "Code": "bg",
+      "Country": "Bulgaria",
+      "Capital": "Sofia",
+      "Population": 6948445,
+      "Area": 108560,
+      "Popdensity": 64
+    },
+    {
+      "Index": 27,
+      "Code": "bf",
+      "Country": "Burkina Faso",
+      "Capital": "Ouagadougou",
+      "Population": 20903273,
+      "Area": 273600,
+      "Popdensity": 76
+    },
+    {
+      "Index": 28,
+      "Code": "bi",
+      "Country": "Burundi",
+      "Capital": "Gitega (official)/ Tifariti",
+      "Population": 11890784,
+      "Area": 25680,
+      "Popdensity": 463
+    },
+    {
+      "Index": 31,
+      "Code": "kh",
+      "Country": "Cambodia",
+      "Capital": "Phnom Penh",
+      "Population": 16718965,
+      "Area": 176520,
+      "Popdensity": 95
+    },
+    {
+      "Index": 32,
+      "Code": "cm",
+      "Country": "Cameroon",
+      "Capital": "Yaoundé",
+      "Population": 26545863,
+      "Area": 472710,
+      "Popdensity": 56
+    },
+    {
+      "Index": 33,
+      "Code": "ca",
+      "Country": "Canada",
+      "Capital": "Ottawa",
+      "Population": 37742154,
+      "Area": 9093510,
+      "Popdensity": 4
+    },
+    {
+      "Index": 30,
+      "Code": "cv",
+      "Country": "Cape Verde",
+      "Capital": "Praia",
+      "Population": 555987,
+      "Area": 4030,
+      "Popdensity": 138
+    },
+    {
+      "Index": 34,
+      "Code": "cf",
+      "Country": "Central African Republic",
+      "Capital": "Bangui",
+      "Population": 4829767,
+      "Area": 622980,
+      "Popdensity": 8
+    },
+    {
+      "Index": 35,
+      "Code": "td",
+      "Country": "Chad",
+      "Capital": "N'Djamena",
+      "Population": 16425864,
+      "Area": 1259200,
+      "Popdensity": 13
+    },
+    {
+      "Index": 36,
+      "Code": "cl",
+      "Country": "Chile",
+      "Capital": "Santiago (official)",
+      "Population": 19116201,
+      "Area": 743532,
+      "Popdensity": 26
+    },
+    {
+      "Index": 37,
+      "Code": "cn",
+      "Country": "China",
+      "Capital": "Beijing",
+      "Population": 1439323776,
+      "Area": 9388211,
+      "Popdensity": 153
+    },
+    {
+      "Index": 38,
+      "Code": "co",
+      "Country": "Colombia",
+      "Capital": "Bogotá",
+      "Population": 50882891,
+      "Area": 1109500,
+      "Popdensity": 46
+    },
+    {
+      "Index": 39,
+      "Code": "km",
+      "Country": "Comoros",
+      "Capital": "Moroni",
+      "Population": 869601,
+      "Area": 1861,
+      "Popdensity": 467
+    },
+    {
+      "Index": 40,
+      "Code": "cg",
+      "Country": "Congo (Congo-Brazzaville)",
+      "Capital": "Brazzaville",
+      "Population": 5518087,
+      "Area": 341500,
+      "Popdensity": 16
+    },
+    {
+      "Index": 41,
+      "Code": "cr",
+      "Country": "Costa Rica",
+      "Capital": "San José",
+      "Population": 5094118,
+      "Area": 51060,
+      "Popdensity": 100
+    },
+    {
+      "Index": 29,
+      "Code": "ci",
+      "Country": "Côte d'Ivoire",
+      "Capital": "Abidjan (former capital; still has many government offices)",
+      "Population": 26378274,
+      "Area": 318000,
+      "Popdensity": 83
+    },
+    {
+      "Index": 42,
+      "Code": "hr",
+      "Country": "Croatia",
+      "Capital": "Zagreb",
+      "Population": 4105267,
+      "Area": 55960,
+      "Popdensity": 73
+    },
+    {
+      "Index": 43,
+      "Code": "cu",
+      "Country": "Cuba",
+      "Capital": "Havana",
+      "Population": 11326616,
+      "Area": 106440,
+      "Popdensity": 106
+    },
+    {
+      "Index": 44,
+      "Code": "cy",
+      "Country": "Cyprus",
+      "Capital": "Nicosia",
+      "Population": 1207359,
+      "Area": 9240,
+      "Popdensity": 131
+    },
+    {
+      "Index": 45,
+      "Code": "cz",
+      "Country": "Czechia (Czech Republic)",
+      "Capital": "Prague",
+      "Population": 10708981,
+      "Area": 77240,
+      "Popdensity": 139
+    },
+    {
+      "Index": 46,
+      "Code": "cd",
+      "Country": "Democratic Republic of the Congo",
+      "Capital": "Kinshasa",
+      "Population": 89561403,
+      "Area": 2267050,
+      "Popdensity": 40
+    },
+    {
+      "Index": 47,
+      "Code": "dk",
+      "Country": "Denmark",
+      "Capital": "Copenhagen",
+      "Population": 5792202,
+      "Area": 42430,
+      "Popdensity": 137
+    },
+    {
+      "Index": 48,
+      "Code": "dj",
+      "Country": "Djibouti",
+      "Capital": "Djibouti",
+      "Population": 988000,
+      "Area": 23180,
+      "Popdensity": 43
+    },
+    {
+      "Index": 49,
+      "Code": "dm",
+      "Country": "Dominica",
+      "Capital": "Roseau",
+      "Population": 71986,
+      "Area": 750,
+      "Popdensity": 96
+    },
+    {
+      "Index": 50,
+      "Code": "do",
+      "Country": "Dominican Republic",
+      "Capital": "Santo Domingo",
+      "Population": 10847910,
+      "Area": 48320,
+      "Popdensity": 225
+    },
+    {
+      "Index": 51,
+      "Code": "ec",
+      "Country": "Ecuador",
+      "Capital": "Quito",
+      "Population": 17643054,
+      "Area": 248360,
+      "Popdensity": 71
+    },
+    {
+      "Index": 52,
+      "Code": "eg",
+      "Country": "Egypt",
+      "Capital": "Cairo",
+      "Population": 102334404,
+      "Area": 995450,
+      "Popdensity": 103
+    },
+    {
+      "Index": 53,
+      "Code": "sv",
+      "Country": "El Salvador",
+      "Capital": "San Salvador",
+      "Population": 6486205,
+      "Area": 20720,
+      "Popdensity": 313
+    },
+    {
+      "Index": 54,
+      "Code": "gq",
+      "Country": "Equatorial Guinea",
+      "Capital": "Malabo",
+      "Population": 1402985,
+      "Area": 28050,
+      "Popdensity": 50
+    },
+    {
+      "Index": 55,
+      "Code": "er",
+      "Country": "Eritrea",
+      "Capital": "Asmara",
+      "Population": 3546421,
+      "Area": 101000,
+      "Popdensity": 35
+    },
+    {
+      "Index": 56,
+      "Code": "ee",
+      "Country": "Estonia",
+      "Capital": "Tallinn",
+      "Population": 1326535,
+      "Area": 42390,
+      "Popdensity": 31
+    },
+    {
+      "Index": 57,
+      "Code": "sz",
+      "Country": "Eswatini",
+      "Capital": "Lobamba (royal and legislative)",
+      "Population": 1160164,
+      "Area": 17200,
+      "Popdensity": 67
+    },
+    {
+      "Index": 58,
+      "Code": "et",
+      "Country": "Ethiopia",
+      "Capital": "Addis Ababa",
+      "Population": 114963588,
+      "Area": 1000000,
+      "Popdensity": 115
+    },
+    {
+      "Index": 59,
+      "Code": "fj",
+      "Country": "Fiji",
+      "Capital": "Suva",
+      "Population": 896445,
+      "Area": 18270,
+      "Popdensity": 49
+    },
+    {
+      "Index": 60,
+      "Code": "fi",
+      "Country": "Finland",
+      "Capital": "Helsinki",
+      "Population": 5540720,
+      "Area": 303890,
+      "Popdensity": 18
+    },
+    {
+      "Index": 61,
+      "Code": "fr",
+      "Country": "France",
+      "Capital": "Paris",
+      "Population": 65273511,
+      "Area": 547557,
+      "Popdensity": 119
+    },
+    {
+      "Index": 62,
+      "Code": "ga",
+      "Country": "Gabon",
+      "Capital": "Libreville",
+      "Population": 2225734,
+      "Area": 257670,
+      "Popdensity": 9
+    },
+    {
+      "Index": 63,
+      "Code": "gm",
+      "Country": "Gambia",
+      "Capital": "Banjul",
+      "Population": 2416668,
+      "Area": 10120,
+      "Popdensity": 239
+    },
+    {
+      "Index": 64,
+      "Code": "ge",
+      "Country": "Georgia",
+      "Capital": "Tbilisi",
+      "Population": 3989167,
+      "Area": 69490,
+      "Popdensity": 57
+    },
+    {
+      "Index": 65,
+      "Code": "de",
+      "Country": "Germany",
+      "Capital": "Berlin",
+      "Population": 83783942,
+      "Area": 348560,
+      "Popdensity": 240
+    },
+    {
+      "Index": 66,
+      "Code": "gh",
+      "Country": "Ghana",
+      "Capital": "Accra",
+      "Population": 31072940,
+      "Area": 227540,
+      "Popdensity": 137
+    },
+    {
+      "Index": 67,
+      "Code": "gr",
+      "Country": "Greece",
+      "Capital": "Athens",
+      "Population": 10423054,
+      "Area": 128900,
+      "Popdensity": 81
+    },
+    {
+      "Index": 68,
+      "Code": "gd",
+      "Country": "Grenada",
+      "Capital": "St. George's",
+      "Population": 112523,
+      "Area": 340,
+      "Popdensity": 331
+    },
+    {
+      "Index": 69,
+      "Code": "gt",
+      "Country": "Guatemala",
+      "Capital": "Guatemala City",
+      "Population": 17915568,
+      "Area": 107160,
+      "Popdensity": 167
+    },
+    {
+      "Index": 70,
+      "Code": "gn",
+      "Country": "Guinea",
+      "Capital": "Conakry",
+      "Population": 13132795,
+      "Area": 245720,
+      "Popdensity": 53
+    },
+    {
+      "Index": 71,
+      "Code": "gw",
+      "Country": "Guinea-Bissau",
+      "Capital": "Bissau",
+      "Population": 1968001,
+      "Area": 28120,
+      "Popdensity": 70
+    },
+    {
+      "Index": 72,
+      "Code": "gy",
+      "Country": "Guyana",
+      "Capital": "Georgetown",
+      "Population": 786552,
+      "Area": 196850,
+      "Popdensity": 4
+    },
+    {
+      "Index": 73,
+      "Code": "ht",
+      "Country": "Haiti",
+      "Capital": "Port-au-Prince",
+      "Population": 11402528,
+      "Area": 27560,
+      "Popdensity": 414
+    },
+    {
+      "Index": 74,
+      "Code": "va",
+      "Country": "Holy See",
+      "Capital": "Holy See",
+      "Population": 801,
+      "Area": 0,
+      "Popdensity": 2003
+    },
+    {
+      "Index": 75,
+      "Code": "hn",
+      "Country": "Honduras",
+      "Capital": "Tegucigalpa",
+      "Population": 9904607,
+      "Area": 111890,
+      "Popdensity": 89
+    },
+    {
+      "Index": 76,
+      "Code": "hu",
+      "Country": "Hungary",
+      "Capital": "Budapest",
+      "Population": 9660351,
+      "Area": 90530,
+      "Popdensity": 107
+    },
+    {
+      "Index": 77,
+      "Code": "is",
+      "Country": "Iceland",
+      "Capital": "Reykjavík",
+      "Population": 341243,
+      "Area": 100250,
+      "Popdensity": 3
+    },
+    {
+      "Index": 78,
+      "Code": "in",
+      "Country": "India",
+      "Capital": "New Delhi",
+      "Population": 1380004385,
+      "Area": 2973190,
+      "Popdensity": 464
+    },
+    {
+      "Index": 79,
+      "Code": "id",
+      "Country": "Indonesia",
+      "Capital": "Jakarta",
+      "Population": 273523615,
+      "Area": 1811570,
+      "Popdensity": 151
+    },
+    {
+      "Index": 80,
+      "Code": "ir",
+      "Country": "Iran",
+      "Capital": "Tehran",
+      "Population": 83992949,
+      "Area": 1628550,
+      "Popdensity": 52
+    },
+    {
+      "Index": 81,
+      "Code": "iq",
+      "Country": "Iraq",
+      "Capital": "Baghdad",
+      "Population": 40222493,
+      "Area": 434320,
+      "Popdensity": 93
+    },
+    {
+      "Index": 82,
+      "Code": "ie",
+      "Country": "Ireland",
+      "Capital": "Dublin",
+      "Population": 4937786,
+      "Area": 68890,
+      "Popdensity": 72
+    },
+    {
+      "Index": 83,
+      "Code": "il",
+      "Country": "Israel",
+      "Capital": "Jerusalem (disputed)",
+      "Population": 8655535,
+      "Area": 21640,
+      "Popdensity": 400
+    },
+    {
+      "Index": 84,
+      "Code": "it",
+      "Country": "Italy",
+      "Capital": "Rome",
+      "Population": 60461826,
+      "Area": 294140,
+      "Popdensity": 206
+    },
+    {
+      "Index": 85,
+      "Code": "jm",
+      "Country": "Jamaica",
+      "Capital": "Kingston",
+      "Population": 2961167,
+      "Area": 10830,
+      "Popdensity": 273
+    },
+    {
+      "Index": 86,
+      "Code": "jp",
+      "Country": "Japan",
+      "Capital": "Tokyo",
+      "Population": 126476461,
+      "Area": 364555,
+      "Popdensity": 347
+    },
+    {
+      "Index": 87,
+      "Code": "jo",
+      "Country": "Jordan",
+      "Capital": "Amman",
+      "Population": 10203134,
+      "Area": 88780,
+      "Popdensity": 115
+    },
+    {
+      "Index": 88,
+      "Code": "kz",
+      "Country": "Kazakhstan",
+      "Capital": "Nur-Sultan (form. Astana)",
+      "Population": 18776707,
+      "Area": 2699700,
+      "Popdensity": 7
+    },
+    {
+      "Index": 89,
+      "Code": "ke",
+      "Country": "Kenya",
+      "Capital": "Nairobi",
+      "Population": 53771296,
+      "Area": 569140,
+      "Popdensity": 94
+    },
+    {
+      "Index": 90,
+      "Code": "ki",
+      "Country": "Kiribati",
+      "Capital": "South Tarawa",
+      "Population": 119449,
+      "Area": 810,
+      "Popdensity": 147
+    },
+    {
+      "Index": 91,
+      "Code": "kw",
+      "Country": "Kuwait",
+      "Capital": "Kuwait City",
+      "Population": 4270571,
+      "Area": 17820,
+      "Popdensity": 240
+    },
+    {
+      "Index": 92,
+      "Code": "kg",
+      "Country": "Kyrgyzstan",
+      "Capital": "Bishkek",
+      "Population": 6524195,
+      "Area": 191800,
+      "Popdensity": 34
+    },
+    {
+      "Index": 93,
+      "Code": "la",
+      "Country": "Laos",
+      "Capital": "Vientiane",
+      "Population": 7275560,
+      "Area": 230800,
+      "Popdensity": 32
+    },
+    {
+      "Index": 94,
+      "Code": "lv",
+      "Country": "Latvia",
+      "Capital": "Riga",
+      "Population": 1886198,
+      "Area": 62200,
+      "Popdensity": 30
+    },
+    {
+      "Index": 95,
+      "Code": "lb",
+      "Country": "Lebanon",
+      "Capital": "Beirut",
+      "Population": 6825445,
+      "Area": 10230,
+      "Popdensity": 667
+    },
+    {
+      "Index": 96,
+      "Code": "ls",
+      "Country": "Lesotho",
+      "Capital": "Maseru",
+      "Population": 2142249,
+      "Area": 30360,
+      "Popdensity": 71
+    },
+    {
+      "Index": 97,
+      "Code": "lr",
+      "Country": "Liberia",
+      "Capital": "Monrovia",
+      "Population": 5057681,
+      "Area": 96320,
+      "Popdensity": 53
+    },
+    {
+      "Index": 98,
+      "Code": "ly",
+      "Country": "Libya",
+      "Capital": "Tripoli",
+      "Population": 6871292,
+      "Area": 1759540,
+      "Popdensity": 4
+    },
+    {
+      "Index": 99,
+      "Code": "li",
+      "Country": "Liechtenstein",
+      "Capital": "Vaduz",
+      "Population": 38128,
+      "Area": 160,
+      "Popdensity": 238
+    },
+    {
+      "Index": 100,
+      "Code": "lt",
+      "Country": "Lithuania",
+      "Capital": "Vilnius",
+      "Population": 2722289,
+      "Area": 62674,
+      "Popdensity": 43
+    },
+    {
+      "Index": 101,
+      "Code": "lu",
+      "Country": "Luxembourg",
+      "Capital": "Luxembourg",
+      "Population": 625978,
+      "Area": 2590,
+      "Popdensity": 242
+    },
+    {
+      "Index": 102,
+      "Code": "mg",
+      "Country": "Madagascar",
+      "Capital": "Antananarivo",
+      "Population": 27691018,
+      "Area": 581795,
+      "Popdensity": 48
+    },
+    {
+      "Index": 103,
+      "Code": "mw",
+      "Country": "Malawi",
+      "Capital": "Lilongwe",
+      "Population": 19129952,
+      "Area": 94280,
+      "Popdensity": 203
+    },
+    {
+      "Index": 104,
+      "Code": "my",
+      "Country": "Malaysia",
+      "Capital": "Kuala Lumpur",
+      "Population": 32365999,
+      "Area": 328550,
+      "Popdensity": 99
+    },
+    {
+      "Index": 105,
+      "Code": "mv",
+      "Country": "Maldives",
+      "Capital": "Malé",
+      "Population": 540544,
+      "Area": 300,
+      "Popdensity": 1802
+    },
+    {
+      "Index": 106,
+      "Code": "ml",
+      "Country": "Mali",
+      "Capital": "Bamako",
+      "Population": 20250833,
+      "Area": 1220190,
+      "Popdensity": 17
+    },
+    {
+      "Index": 107,
+      "Code": "mt",
+      "Country": "Malta",
+      "Capital": "Valletta",
+      "Population": 441543,
+      "Area": 320,
+      "Popdensity": 1380
+    },
+    {
+      "Index": 108,
+      "Code": "mh",
+      "Country": "Marshall Islands",
+      "Capital": "Majuro",
+      "Population": 59190,
+      "Area": 180,
+      "Popdensity": 329
+    },
+    {
+      "Index": 109,
+      "Code": "mr",
+      "Country": "Mauritania",
+      "Capital": "Nouakchott",
+      "Population": 4649658,
+      "Area": 1030700,
+      "Popdensity": 5
+    },
+    {
+      "Index": 110,
+      "Code": "mu",
+      "Country": "Mauritius",
+      "Capital": "Port Louis",
+      "Population": 1271768,
+      "Area": 2030,
+      "Popdensity": 626
+    },
+    {
+      "Index": 111,
+      "Code": "mx",
+      "Country": "Mexico",
+      "Capital": "Mexico City",
+      "Population": 128932753,
+      "Area": 1943950,
+      "Popdensity": 66
+    },
+    {
+      "Index": 112,
+      "Code": "fm",
+      "Country": "Micronesia",
+      "Capital": "Palikir",
+      "Population": 548914,
+      "Area": 700,
+      "Popdensity": 784
+    },
+    {
+      "Index": 113,
+      "Code": "md",
+      "Country": "Moldova",
+      "Capital": "Chisinau",
+      "Population": 4033963,
+      "Area": 32850,
+      "Popdensity": 123
+    },
+    {
+      "Index": 114,
+      "Code": "mc",
+      "Country": "Monaco",
+      "Capital": "Monaco",
+      "Population": 39242,
+      "Area": 1,
+      "Popdensity": 26337
+    },
+    {
+      "Index": 115,
+      "Code": "mn",
+      "Country": "Mongolia",
+      "Capital": "Ulaanbaatar",
+      "Population": 3278290,
+      "Area": 1553560,
+      "Popdensity": 2
+    },
+    {
+      "Index": 116,
+      "Code": "me",
+      "Country": "Montenegro",
+      "Capital": "Podgorica (official)",
+      "Population": 628066,
+      "Area": 13450,
+      "Popdensity": 47
+    },
+    {
+      "Index": 117,
+      "Code": "ma",
+      "Country": "Morocco",
+      "Capital": "Rabat",
+      "Population": 36910560,
+      "Area": 446300,
+      "Popdensity": 83
+    },
+    {
+      "Index": 118,
+      "Code": "mz",
+      "Country": "Mozambique",
+      "Capital": "Maputo",
+      "Population": 31255435,
+      "Area": 786380,
+      "Popdensity": 40
+    },
+    {
+      "Index": 119,
+      "Code": "mm",
+      "Country": "Myanmar",
+      "Capital": "Naypyidaw",
+      "Population": 54409800,
+      "Area": 653290,
+      "Popdensity": 83
+    },
+    {
+      "Index": 120,
+      "Code": "na",
+      "Country": "Namibia",
+      "Capital": "Windhoek",
+      "Population": 2540905,
+      "Area": 823290,
+      "Popdensity": 3
+    },
+    {
+      "Index": 121,
+      "Code": "nr",
+      "Country": "Nauru",
+      "Capital": "Yaren (de facto)",
+      "Population": 10824,
+      "Area": 20,
+      "Popdensity": 541
+    },
+    {
+      "Index": 122,
+      "Code": "np",
+      "Country": "Nepal",
+      "Capital": "Kathmandu",
+      "Population": 29136808,
+      "Area": 143350,
+      "Popdensity": 203
+    },
+    {
+      "Index": 123,
+      "Code": "nl",
+      "Country": "Netherlands",
+      "Capital": "Amsterdam",
+      "Population": 17134872,
+      "Area": 33720,
+      "Popdensity": 508
+    },
+    {
+      "Index": 124,
+      "Code": "nz",
+      "Country": "New Zealand",
+      "Capital": "Wellington",
+      "Population": 4822233,
+      "Area": 263310,
+      "Popdensity": 18
+    },
+    {
+      "Index": 125,
+      "Code": "ni",
+      "Country": "Nicaragua",
+      "Capital": "Managua",
+      "Population": 6624554,
+      "Area": 120340,
+      "Popdensity": 55
+    },
+    {
+      "Index": 126,
+      "Code": "ne",
+      "Country": "Niger",
+      "Capital": "Niamey",
+      "Population": 24206644,
+      "Area": 1266700,
+      "Popdensity": 19
+    },
+    {
+      "Index": 127,
+      "Code": "ng",
+      "Country": "Nigeria",
+      "Capital": "Abuja",
+      "Population": 206139589,
+      "Area": 910770,
+      "Popdensity": 226
+    },
+    {
+      "Index": 128,
+      "Code": "kp",
+      "Country": "North Korea",
+      "Capital": "Pyongyang",
+      "Population": 25778816,
+      "Area": 120410,
+      "Popdensity": 214
+    },
+    {
+      "Index": 129,
+      "Code": "mk",
+      "Country": "North Macedonia",
+      "Capital": "Skopje",
+      "Population": 2083374,
+      "Area": 25220,
+      "Popdensity": 83
+    },
+    {
+      "Index": 130,
+      "Code": "no",
+      "Country": "Norway",
+      "Capital": "Oslo",
+      "Population": 5421241,
+      "Area": 365268,
+      "Popdensity": 15
+    },
+    {
+      "Index": 131,
+      "Code": "om",
+      "Country": "Oman",
+      "Capital": "Muscat",
+      "Population": 5106626,
+      "Area": 309500,
+      "Popdensity": 16
+    },
+    {
+      "Index": 132,
+      "Code": "pk",
+      "Country": "Pakistan",
+      "Capital": "Islamabad",
+      "Population": 220892340,
+      "Area": 770880,
+      "Popdensity": 287
+    },
+    {
+      "Index": 133,
+      "Code": "pw",
+      "Country": "Palau",
+      "Capital": "Ngerulmud",
+      "Population": 18094,
+      "Area": 460,
+      "Popdensity": 39
+    },
+    {
+      "Index": 134,
+      "Code": "ps",
+      "Country": "Palestine",
+      "Capital": "Ramallah (de facto)",
+      "Population": 5101414,
+      "Area": 6020,
+      "Popdensity": 847
+    },
+    {
+      "Index": 135,
+      "Code": "pa",
+      "Country": "Panama",
+      "Capital": "Panama City",
+      "Population": 4314767,
+      "Area": 74340,
+      "Popdensity": 58
+    },
+    {
+      "Index": 136,
+      "Code": "pg",
+      "Country": "Papua New Guinea",
+      "Capital": "Port Moresby",
+      "Population": 8947024,
+      "Area": 452860,
+      "Popdensity": 20
+    },
+    {
+      "Index": 137,
+      "Code": "py",
+      "Country": "Paraguay",
+      "Capital": "Asunción",
+      "Population": 7132538,
+      "Area": 397300,
+      "Popdensity": 18
+    },
+    {
+      "Index": 138,
+      "Code": "pe",
+      "Country": "Peru",
+      "Capital": "Lima",
+      "Population": 32971854,
+      "Area": 1280000,
+      "Popdensity": 26
+    },
+    {
+      "Index": 139,
+      "Code": "ph",
+      "Country": "Philippines",
+      "Capital": "Manila",
+      "Population": 109581078,
+      "Area": 298170,
+      "Popdensity": 368
+    },
+    {
+      "Index": 140,
+      "Code": "pl",
+      "Country": "Poland",
+      "Capital": "Warsaw",
+      "Population": 37846611,
+      "Area": 306230,
+      "Popdensity": 124
+    },
+    {
+      "Index": 141,
+      "Code": "pt",
+      "Country": "Portugal",
+      "Capital": "Lisbon",
+      "Population": 10196709,
+      "Area": 91590,
+      "Popdensity": 111
+    },
+    {
+      "Index": 142,
+      "Code": "qa",
+      "Country": "Qatar",
+      "Capital": "Doha",
+      "Population": 2881053,
+      "Area": 11610,
+      "Popdensity": 248
+    },
+    {
+      "Index": 143,
+      "Code": "ro",
+      "Country": "Romania",
+      "Capital": "Bucharest",
+      "Population": 19237691,
+      "Area": 230170,
+      "Popdensity": 84
+    },
+    {
+      "Index": 144,
+      "Code": "ru",
+      "Country": "Russia",
+      "Capital": "Moscow",
+      "Population": 145934462,
+      "Area": 16376870,
+      "Popdensity": 9
+    },
+    {
+      "Index": 145,
+      "Code": "rw",
+      "Country": "Rwanda",
+      "Capital": "Kigali",
+      "Population": 12952218,
+      "Area": 24670,
+      "Popdensity": 525
+    },
+    {
+      "Index": 146,
+      "Code": "kn",
+      "Country": "Saint Kitts and Nevis",
+      "Capital": "Basseterre",
+      "Population": 53199,
+      "Area": 260,
+      "Popdensity": 205
+    },
+    {
+      "Index": 147,
+      "Code": "lc",
+      "Country": "Saint Lucia",
+      "Capital": "Castries",
+      "Population": 183627,
+      "Area": 610,
+      "Popdensity": 301
+    },
+    {
+      "Index": 148,
+      "Code": "vc",
+      "Country": "Saint Vincent and the Grenadines",
+      "Capital": "Kingstown",
+      "Population": 110940,
+      "Area": 390,
+      "Popdensity": 284
+    },
+    {
+      "Index": 149,
+      "Code": "ws",
+      "Country": "Samoa",
+      "Capital": "Apia",
+      "Population": 198414,
+      "Area": 2830,
+      "Popdensity": 70
+    },
+    {
+      "Index": 150,
+      "Code": "sm",
+      "Country": "San Marino",
+      "Capital": "San Marino",
+      "Population": 33931,
+      "Area": 60,
+      "Popdensity": 566
+    },
+    {
+      "Index": 151,
+      "Code": "st",
+      "Country": "Sao Tome and Principe",
+      "Capital": "São Tomé",
+      "Population": 219159,
+      "Area": 960,
+      "Popdensity": 228
+    },
+    {
+      "Index": 152,
+      "Code": "sa",
+      "Country": "Saudi Arabia",
+      "Capital": "Riyadh",
+      "Population": 34813871,
+      "Area": 2149690,
+      "Popdensity": 16
+    },
+    {
+      "Index": 153,
+      "Code": "sn",
+      "Country": "Senegal",
+      "Capital": "Dakar",
+      "Population": 16743927,
+      "Area": 192530,
+      "Popdensity": 87
+    },
+    {
+      "Index": 154,
+      "Code": "rs",
+      "Country": "Serbia",
+      "Capital": "Belgrade",
+      "Population": 8737371,
+      "Area": 87460,
+      "Popdensity": 100
+    },
+    {
+      "Index": 155,
+      "Code": "sc",
+      "Country": "Seychelles",
+      "Capital": "Victoria",
+      "Population": 98347,
+      "Area": 460,
+      "Popdensity": 214
+    },
+    {
+      "Index": 156,
+      "Code": "sl",
+      "Country": "Sierra Leone",
+      "Capital": "Freetown",
+      "Population": 7976983,
+      "Area": 72180,
+      "Popdensity": 111
+    },
+    {
+      "Index": 157,
+      "Code": "sg",
+      "Country": "Singapore",
+      "Capital": "Singapore",
+      "Population": 5850342,
+      "Area": 700,
+      "Popdensity": 8358
+    },
+    {
+      "Index": 158,
+      "Code": "sk",
+      "Country": "Slovakia",
+      "Capital": "Bratislava",
+      "Population": 5459642,
+      "Area": 48088,
+      "Popdensity": 114
+    },
+    {
+      "Index": 159,
+      "Code": "si",
+      "Country": "Slovenia",
+      "Capital": "Ljubljana",
+      "Population": 2078938,
+      "Area": 20140,
+      "Popdensity": 103
+    },
+    {
+      "Index": 160,
+      "Code": "sb",
+      "Country": "Solomon Islands",
+      "Capital": "Honiara",
+      "Population": 686884,
+      "Area": 27990,
+      "Popdensity": 25
+    },
+    {
+      "Index": 161,
+      "Code": "so",
+      "Country": "Somalia",
+      "Capital": "Mogadishu",
+      "Population": 15893222,
+      "Area": 627340,
+      "Popdensity": 25
+    },
+    {
+      "Index": 162,
+      "Code": "za",
+      "Country": "South Africa",
+      "Capital": "Pretoria (executive)",
+      "Population": 59308690,
+      "Area": 1213090,
+      "Popdensity": 49
+    },
+    {
+      "Index": 163,
+      "Code": "kr",
+      "Country": "South Korea",
+      "Capital": "Seoul",
+      "Population": 51269185,
+      "Area": 97230,
+      "Popdensity": 527
+    },
+    {
+      "Index": 164,
+      "Code": "ss",
+      "Country": "South Sudan",
+      "Capital": "Juba",
+      "Population": 11193725,
+      "Area": 610952,
+      "Popdensity": 18
+    },
+    {
+      "Index": 165,
+      "Code": "es",
+      "Country": "Spain",
+      "Capital": "Madrid",
+      "Population": 46754778,
+      "Area": 498800,
+      "Popdensity": 94
+    },
+    {
+      "Index": 166,
+      "Code": "lk",
+      "Country": "Sri Lanka",
+      "Capital": "Colombo (executive, judicial)",
+      "Population": 21413249,
+      "Area": 62710,
+      "Popdensity": 341
+    },
+    {
+      "Index": 167,
+      "Code": "sd",
+      "Country": "Sudan",
+      "Capital": "Khartoum",
+      "Population": 43849260,
+      "Area": 1765048,
+      "Popdensity": 25
+    },
+    {
+      "Index": 168,
+      "Code": "sr",
+      "Country": "Suriname",
+      "Capital": "Paramaribo",
+      "Population": 586632,
+      "Area": 156000,
+      "Popdensity": 4
+    },
+    {
+      "Index": 169,
+      "Code": "se",
+      "Country": "Sweden",
+      "Capital": "Stockholm",
+      "Population": 10099265,
+      "Area": 410340,
+      "Popdensity": 25
+    },
+    {
+      "Index": 170,
+      "Code": "ch",
+      "Country": "Switzerland",
+      "Capital": "Bern (de facto)",
+      "Population": 8654622,
+      "Area": 39516,
+      "Popdensity": 219
+    },
+    {
+      "Index": 171,
+      "Code": "sy",
+      "Country": "Syria",
+      "Capital": "Damascus",
+      "Population": 17500658,
+      "Area": 183630,
+      "Popdensity": 95
+    },
+    {
+      "Index": 172,
+      "Code": "tj",
+      "Country": "Tajikistan",
+      "Capital": "Dushanbe",
+      "Population": 9537645,
+      "Area": 139960,
+      "Popdensity": 68
+    },
+    {
+      "Index": 173,
+      "Code": "tz",
+      "Country": "Tanzania",
+      "Capital": "Dar es Salaam (de facto, judicial)",
+      "Population": 59734218,
+      "Area": 885800,
+      "Popdensity": 67
+    },
+    {
+      "Index": 174,
+      "Code": "th",
+      "Country": "Thailand",
+      "Capital": "Bangkok",
+      "Population": 69799978,
+      "Area": 510890,
+      "Popdensity": 137
+    },
+    {
+      "Index": 175,
+      "Code": "tl",
+      "Country": "Timor-Leste",
+      "Capital": "Dili",
+      "Population": 1318445,
+      "Area": 14870,
+      "Popdensity": 89
+    },
+    {
+      "Index": 176,
+      "Code": "tg",
+      "Country": "Togo",
+      "Capital": "Lomé",
+      "Population": 8278724,
+      "Area": 54390,
+      "Popdensity": 152
+    },
+    {
+      "Index": 177,
+      "Code": "to",
+      "Country": "Tonga",
+      "Capital": "Nuku?alofa",
+      "Population": 105695,
+      "Area": 720,
+      "Popdensity": 147
+    },
+    {
+      "Index": 178,
+      "Code": "tt",
+      "Country": "Trinidad and Tobago",
+      "Capital": "Port of Spain",
+      "Population": 1399488,
+      "Area": 5130,
+      "Popdensity": 273
+    },
+    {
+      "Index": 179,
+      "Code": "tn",
+      "Country": "Tunisia",
+      "Capital": "Tunis",
+      "Population": 11818619,
+      "Area": 155360,
+      "Popdensity": 76
+    },
+    {
+      "Index": 180,
+      "Code": "tr",
+      "Country": "Turkey",
+      "Capital": "Ankara",
+      "Population": 84339067,
+      "Area": 769630,
+      "Popdensity": 110
+    },
+    {
+      "Index": 181,
+      "Code": "tm",
+      "Country": "Turkmenistan",
+      "Capital": "Ashgabat",
+      "Population": 6031200,
+      "Area": 469930,
+      "Popdensity": 13
+    },
+    {
+      "Index": 182,
+      "Code": "tv",
+      "Country": "Tuvalu",
+      "Capital": "Funafuti",
+      "Population": 11792,
+      "Area": 30,
+      "Popdensity": 393
+    },
+    {
+      "Index": 183,
+      "Code": "ug",
+      "Country": "Uganda",
+      "Capital": "Kampala",
+      "Population": 45741007,
+      "Area": 199810,
+      "Popdensity": 229
+    },
+    {
+      "Index": 184,
+      "Code": "ua",
+      "Country": "Ukraine",
+      "Capital": "Kyiv",
+      "Population": 43733762,
+      "Area": 579320,
+      "Popdensity": 75
+    },
+    {
+      "Index": 185,
+      "Code": "ae",
+      "Country": "United Arab Emirates",
+      "Capital": "Abu Dhabi",
+      "Population": 9890402,
+      "Area": 83600,
+      "Popdensity": 118
+    },
+    {
+      "Index": 186,
+      "Code": "gb",
+      "Country": "United Kingdom",
+      "Capital": "London",
+      "Population": 67886011,
+      "Area": 241930,
+      "Popdensity": 281
+    },
+    {
+      "Index": 187,
+      "Code": "us",
+      "Country": "United States of America",
+      "Capital": "Washington, D.C.",
+      "Population": 331002651,
+      "Area": 9147420,
+      "Popdensity": 36
+    },
+    {
+      "Index": 188,
+      "Code": "uy",
+      "Country": "Uruguay",
+      "Capital": "Montevideo",
+      "Population": 3473730,
+      "Area": 175020,
+      "Popdensity": 20
+    },
+    {
+      "Index": 189,
+      "Code": "uz",
+      "Country": "Uzbekistan",
+      "Capital": "Tashkent",
+      "Population": 33469203,
+      "Area": 425400,
+      "Popdensity": 79
+    },
+    {
+      "Index": 190,
+      "Code": "vu",
+      "Country": "Vanuatu",
+      "Capital": "Port Vila",
+      "Population": 307145,
+      "Area": 12190,
+      "Popdensity": 25
+    },
+    {
+      "Index": 191,
+      "Code": "ve",
+      "Country": "Venezuela",
+      "Capital": "Caracas",
+      "Population": 28435940,
+      "Area": 882050,
+      "Popdensity": 32
+    },
+    {
+      "Index": 192,
+      "Code": "vn",
+      "Country": "Vietnam",
+      "Capital": "Hanoi",
+      "Population": 97338579,
+      "Area": 310070,
+      "Popdensity": 314
+    },
+    {
+      "Index": 193,
+      "Code": "ye",
+      "Country": "Yemen",
+      "Capital": "Aden (de facto, temporary)",
+      "Population": 29825964,
+      "Area": 527970,
+      "Popdensity": 56
+    },
+    {
+      "Index": 194,
+      "Code": "zm",
+      "Country": "Zambia",
+      "Capital": "Lusaka",
+      "Population": 18383955,
+      "Area": 743390,
+      "Popdensity": 25
+    },
+    {
+      "Index": 195,
+      "Code": "zw",
+      "Country": "Zimbabwe",
+      "Capital": "Harare",
+      "Population": 14862924,
+      "Area": 386850,
+      "Popdensity": 38
+    }
+  ]
