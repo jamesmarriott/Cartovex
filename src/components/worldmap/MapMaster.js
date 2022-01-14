@@ -9,7 +9,7 @@ import { Box, } from '@chakra-ui/react'
 function MapMaster() {
 
 //total number of questions
-  const questionNumberTotal = 20
+  const questionNumberTotal = 5
 // grabs x number of countries at random from total a data set
   
 // the current question number
@@ -83,7 +83,7 @@ function MapMaster() {
           {...play, played: true, correct: false} : play
       }))
     }
-    currentQuestion === questionNumberTotal ? setGameOver(true) : setCurrentQuestion(currentQuestion + 1)
+    currentQuestion === questionNumberTotal-1 ? setGameOver(true) : setCurrentQuestion(currentQuestion + 1)
   }
   
   return (

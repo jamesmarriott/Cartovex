@@ -1,7 +1,7 @@
 import React from "react";
 import { Text, Progress, Box, Center, Grid, GridItem } from '@chakra-ui/react'
 
-function QuestionScoreDisplay({currentQuestion, questionNumberTotal, score, player, message}) {
+function QuestionScoreDisplay({currentQuestion, questionNumberTotal, score, message}) {
   
 
 

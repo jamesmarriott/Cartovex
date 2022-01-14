@@ -3,9 +3,6 @@ import { Text, Box, Center, Grid, GridItem } from '@chakra-ui/react'
 import { CheckIcon, CloseIcon } from '@chakra-ui/icons'
 
 function GameOver({questionNumberTotal, score, player}) {
-
-
-
   return (
     <Box pos="absolute" w='100%' textAlign="center">
           <Center>
@@ -21,12 +18,12 @@ function GameOver({questionNumberTotal, score, player}) {
                     <GridItem colSpan={1}>
                     <Text fontSize='xl'>#{item.index+1}</Text>
                     </GridItem>
-                    <GridItem colSpan={1}>
+                    <GridItem colSpan={2}>
                     <Text fontSize='xl'>{item.country}</Text>
                     </GridItem>
-                    <GridItem colSpan={1}>
-                    <Text fontSize='xl'>{item.countrycode}</Text>
-                    </GridItem>
+                    {/* <GridItem colSpan={1}>
+                    <Text fontSize='xl'>Code{item.countrycode}</Text>
+                    </GridItem> */}
                     <GridItem colSpan={1}>
                     <Text as='span' ml='2' color='gray.600' fontSize='sm'>{item.correct ? <CheckIcon color="green"/> : <CloseIcon color="red"/>}</Text>
                     </GridItem>
