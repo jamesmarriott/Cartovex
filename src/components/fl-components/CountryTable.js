@@ -45,11 +45,11 @@ import { COLUMNS } from './columns'
                     <TableCaption>Countries</TableCaption>
                 <Thead>
                     {
-                        headerGroups.map((headerGroup) => {
+                        headerGroups.map((headerGroup, keyind) => {
                             
                             return (
                                 
-                            <Tr {...headerGroup.getHeaderGroupProps()}>
+                            <Tr key={keyind} {...headerGroup.getHeaderGroupProps()}>
                                 {headerGroup.headers.map((column, index) => (
                                         <Th key={index} {...column.getHeaderProps(column.getSortByToggleProps())}>
                                             {column.render('Header')}
@@ -70,10 +70,10 @@ import { COLUMNS } from './columns'
                         )}
                 </Thead>
                 <Tbody {...getTableBodyProps()}>
-                    {rows.map((row, ) => {
+                    {rows.map((row, ind) => {
                             prepareRow(row)
                             return (
-                                <Tr {...row.getRowProps()}>
+                                <Tr key={ind} {...row.getRowProps()}>
                                     {row.cells.map((cell, index) =>{
                                     
 
