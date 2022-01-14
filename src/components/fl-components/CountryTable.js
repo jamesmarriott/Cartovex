@@ -50,7 +50,7 @@ import { COLUMNS } from './columns'
                             return (
                                 
                             <Tr {...headerGroup.getHeaderGroupProps()}>
-                                {headerGroup.headers.map((column) => (
+                                {headerGroup.headers.map((column, key) => (
                                         <Th {...column.getHeaderProps(column.getSortByToggleProps())}>
                                             {column.render('Header')}
                                             <chakra.span pl='4'>
