@@ -26,4 +26,4 @@ Tech used here:
 - Add draggable fields fields let the user select / remove fields.
 
 ## Country Finder Game
-Tech used here:[D3 React](https://react-d3-library.github.io/)
+Tech used here: [D3 React](https://react-d3-library.github.io/)
