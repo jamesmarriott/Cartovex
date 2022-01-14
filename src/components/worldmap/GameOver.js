@@ -13,9 +13,9 @@ function GameOver({questionNumberTotal, score, player}) {
             <GridItem colSpan={4}>
               <Text fontSize='2xl'>You got {score} right and {questionNumberTotal-score} wrong</Text>
             </GridItem>
-              {player.map(item=>
+              {player.map((item, key) =>
                     <>
-                    <GridItem colSpan={1}>
+                    <GridItem key={key} colSpan={1}>
                     <Text fontSize='xl'>#{item.index+1}</Text>
                     </GridItem>
                     <GridItem colSpan={2}>

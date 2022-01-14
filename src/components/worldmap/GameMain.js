@@ -5,11 +5,10 @@ import GameOver from './GameOver'
 import data from "./GeoChart.world.geo.json";
 import { Box, } from '@chakra-ui/react'
 
-
-function MapMaster() {
+function MapGameMain() {
 
 //total number of questions
-  const questionNumberTotal = 10
+  const questionNumberTotal = 5
 // grabs x number of countries at random from total a data set
   
 // the current question number
@@ -22,7 +21,7 @@ function MapMaster() {
 // be used to generate a unique color for each country. but it can also be used for other purposes.
 // if we pass something else as props - like population size.
   const property = "iso_n3"
-  const [player, setPlayer] = useState(()=> resetPlayer())
+  const [player, setPlayer] = useState(resetPlayer())
   const [selectedCountry, setSelectedCountry] = useState()
   const [message, setMessage] = useState(`Find ${player[currentQuestion].country}`)
 
@@ -41,8 +40,9 @@ function MapMaster() {
         arr.push(r);
       }
     }
-
-    console.log("called")
+    
+    console.log(arr)
+    console.log('called')
 
       for (let i=0; i < questionNumberTotal; i++) {
 
@@ -131,7 +131,7 @@ function MapMaster() {
   );
 }
 
-export default MapMaster
+export default MapGameMain
 
 
 // To do: Only get countries over a certain size
