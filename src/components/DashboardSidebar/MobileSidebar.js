@@ -22,7 +22,7 @@ export default function MobileSidebar() {
       router.events.off("routeChangeComplete", onClose);
     };
     //eslint-disable-line
-  }, []);
+  }, [onClose, router.events]);
   return (
     <Drawer isOpen={isOpen} onClose={onClose} placement="left">
       <DrawerOverlay display={["initial", , "none"]}>
