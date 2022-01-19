@@ -23,7 +23,7 @@ const Arrow = createIcon({
     ),
   });
 
-export default function Landing() {
+export default function Hero() {
   return (
         <Stack flex={1} pt={10} spacing={{ base: 5, md: 10 }} textAlign="center">
           <Heading
