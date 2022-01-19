@@ -1,0 +1,12 @@
+.country {
+  fill: lightblue;
+  stroke: black;
+  stroke-width: .2vh;
+}
+  
+.country:hover {
+    stroke: black;
+    cursor: pointer;
+    fill: darkslateblue;
+    transition: fill .15s;
+  }

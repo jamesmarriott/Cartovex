@@ -1,19 +1,19 @@
-// import FlagTableMaster from './components/fl-components/FlagTablemaster'
 import MapMaster from '../src/components/worldmap/MapMaster'
+import WithSubnavigation from "../src/components/nav/Nav"
 
 import * as React from "react"
 import {
-  ChakraProvider,
-  theme,
+  Container
 } from "@chakra-ui/react"
+
 
 function App() {
 
     return (
-          <ChakraProvider theme={theme}>
-            <MapMaster/>
-          </ChakraProvider>
+      <Container maxW={"100vw"} p={0}>
+        <WithSubnavigation/>
+        <MapMaster/>
+      </Container>
     )
-
 }
 export default App;

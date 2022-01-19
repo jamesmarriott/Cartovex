@@ -1,7 +1,6 @@
 import {
   Box,
   Heading,
-  Container,
   Text,
   Button,
   Stack,
@@ -24,17 +23,9 @@ const Arrow = createIcon({
     ),
   });
 
-export default function CallToActionWithAnnotation() {
+export default function Landing() {
   return (
-    <>
-    
-
-      <Container maxW={'3xl'}>
-        <Stack
-          as={Box}
-          textAlign={'center'}
-          spacing={{ base: 8, md: 14 }}
-          py={{ base: 20, md: 36 }}>
+        <Stack flex={1} pt={10} spacing={{ base: 5, md: 10 }} textAlign="center">
           <Heading
             fontWeight={600}
             fontSize={{ base: '2xl', sm: '4xl', md: '6xl' }}
@@ -117,9 +108,7 @@ export default function CallToActionWithAnnotation() {
                 Uses D3
               </Text>
             </Box>
-          </Stack>
         </Stack>
-      </Container>
-    </>
+      </Stack>
   );
 }

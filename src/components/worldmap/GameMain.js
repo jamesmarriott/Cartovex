@@ -5,6 +5,7 @@ import GameOver from './GameOver'
 import data from "./GeoChart.world.geo.json";
 import { Box, } from '@chakra-ui/react'
 
+
 function MapGameMain() {
 
 //total number of questions

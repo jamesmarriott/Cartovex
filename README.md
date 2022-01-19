@@ -27,3 +27,6 @@ Tech used here:
 
 ## Country Finder Game
 Tech used here: [D3 React](https://react-d3-library.github.io/)
+
+## Country Explorer Map
+Tech used here: [D3 React](https://react-d3-library.github.io/)

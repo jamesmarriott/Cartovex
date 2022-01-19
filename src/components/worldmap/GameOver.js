@@ -4,26 +4,23 @@ import { CheckIcon, CloseIcon } from '@chakra-ui/icons'
 
 function GameOver({questionNumberTotal, score, player}) {
   return (
-    <Box pos="absolute" w='100%' textAlign="center">
+    <Box w='100%' pos='absolute' p={4} textAlign="center" sx={{fontSize: 'clamp(.7rem, .6rem + 1vh, 2rem)'}}>
           <Center>
           <Grid templateColumns='repeat(4, 1fr)' p={4} bg="pink.100" gap={1}>
             <GridItem colSpan={4}>
-              <Text fontSize='3xl'>Game Over!</Text>
+              <Text fontSize='2xl'>Game Over!</Text>
             </GridItem>
             <GridItem colSpan={4}>
-              <Text fontSize='2xl'>You got {score} right and {questionNumberTotal-score} wrong</Text>
+              <Text fontSize='1xl'>You got {score} right and {questionNumberTotal-score} wrong</Text>
             </GridItem>
               {player.map((item, key) =>
                     <>
                     <GridItem key={key} colSpan={1}>
-                    <Text fontSize='xl'>#{item.index+1}</Text>
+                    <Text>#{item.index+1}</Text>
                     </GridItem>
                     <GridItem colSpan={2}>
-                    <Text fontSize='xl'>{item.country}</Text>
+                    <Text >{item.country}</Text>
                     </GridItem>
-                    {/* <GridItem colSpan={1}>
-                    <Text fontSize='xl'>Code{item.countrycode}</Text>
-                    </GridItem> */}
                     <GridItem colSpan={1}>
                     <Text as='span' ml='2' color='gray.600' fontSize='sm'>{item.correct ? <CheckIcon color="green"/> : <CloseIcon color="red"/>}</Text>
                     </GridItem>

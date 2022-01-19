@@ -4,6 +4,7 @@ import QuestionScoreDisplay from "./QuestionDisplayer";
 import GameOver from './GameOver'
 import data from "./GeoChart.world.geo.json";
 import { Box, } from '@chakra-ui/react'
+import { pointer } from "d3";
 
 
 function MapMaster() {
@@ -26,9 +27,6 @@ function MapMaster() {
   const [selectedCountry, setSelectedCountry] = useState()
   const [message, setMessage] = useState(`Find ${player[currentQuestion].country}`)
 
-  // creates an array of objects list of questions
-  // we are going to note which countries the player got right / wrong
-  // once we have a login system we will focus only on the questions the player got wrong
 
   function resetPlayer() {
 
@@ -42,10 +40,8 @@ function MapMaster() {
       }
     }
 
-    console.log("called")
-
       for (let i=0; i < questionNumberTotal; i++) {
-
+        
         questions.push({
           "index": i,
           "country": data.features[arr[i]].properties.name,
@@ -75,9 +71,9 @@ function MapMaster() {
   }, [currentQuestion])
 
   const countryCallBack = useCallback((feature) => {
-    console.log(feature)
     setSelectedCountry(feature);
   }, []);
+
 
   const checkCorrect = () => {
     if (selectedCountry.properties.name === player[currentQuestion].country) {
@@ -90,6 +86,9 @@ function MapMaster() {
     }
     else {
       setMessage(`Wrong! You selected ${selectedCountry.properties.name}`)
+      console.log(selectedCountry)
+      // temporarily select the correct country and zoom into display
+
       setPlayer(oldPlayer => oldPlayer.map(play => {
         return play.index === currentQuestion ? 
           {...play, played: true, correct: false} : play
@@ -111,7 +110,7 @@ function MapMaster() {
 
      />
      :
-    <QuestionScoreDisplay
+    <QuestionScoreDisplay 
           currentQuestion={currentQuestion}
           questionNumberTotal={questionNumberTotal}
           score={score}
@@ -133,14 +132,15 @@ function MapMaster() {
 
 export default MapMaster
 
-
 // To do: Only get countries over a certain size
-// fix gameover count problem
-// allow zooming
-// zime out before end
 // if user in wrong show the correct country not the one the user selected
-// restart game
-// don't allow duplicates
-// deploy!!!
-// if the user has clicked correctly on a country it should be green/ otherwise red
-// are the countries really random? Doesn't seem like it
+// zime out before end
+// gameover restart
+// if the user has clicked correctly on a country it should be green/ otherwise red // probably need to save this in state and render in the component
+// when userauth is done allow for stats saving and display and learning
+// options
+// can we do zoom and pan?
+// -  learn / game mode
+// - learn mode - dynamically slide in a country info thing
+// - learn mode  - only study countries you got wrong previously
+// e-commerce store - buy countries!
